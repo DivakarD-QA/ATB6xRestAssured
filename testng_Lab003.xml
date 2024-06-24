@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured">
+        <classes>
+
+            <class name="testng.Lab003">
+            <methods> 
+            <exclude name="getrequest3"> </exclude>
+            </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssured"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.069">
+    <properties></properties>
+
+
+
+            <testcase
+                name="deleteBooking"
+                time="0.004"
+                classname="testng.Lab007">
+            </testcase>
+            <testcase
+                name="getBooking"
+                time="0.065"
+                classname="testng.Lab007">
+            </testcase>
+            <testcase
+                name="updateBooking"
+                time="0.000"
+                classname="testng.Lab007">
+            </testcase>
+</testsuite>
