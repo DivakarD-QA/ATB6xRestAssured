@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="POST - All Test Suite">
+    <test verbose="2" preserve-order="true" name="ATB6xRestAssured">
+        <classes>
+            <class name="June.Ex22062024.POST.Lab012_BDD"></class>
+            <class name="June.Ex22062024.POST.Lab013_NonBDD"></class>
+        </classes>
+    </test>
+</suite>

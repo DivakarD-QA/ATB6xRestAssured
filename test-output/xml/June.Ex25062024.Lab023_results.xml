@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssured"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.099">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getToken"
+                time="0.083"
+                classname="June.Ex25062024.Lab023">
+            </testcase>
+            <testcase
+                name="testPutReq"
+                time="0.000"
+                classname="June.Ex25062024.Lab023">
+            </testcase>
+            <testcase
+                name="openApp"
+                time="0.005"
+                classname="June.Ex25062024.Lab023">
+            </testcase>
+            <testcase
+                name="getBookingID"
+                time="0.011"
+                classname="June.Ex25062024.Lab023">
+            </testcase>
+</testsuite>

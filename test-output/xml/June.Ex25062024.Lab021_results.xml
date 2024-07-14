@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssured"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.092">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Payment"
+                time="0.081"
+                classname="June.Ex25062024.Lab021">
+            </testcase>
+            <testcase
+                name="checkLOgin"
+                time="0.011"
+                classname="June.Ex25062024.Lab021">
+            </testcase>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssured"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.084">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getAuthCred"
+                time="0.004"
+                classname="June.Ex25062024.DDT.Lab025">
+            </testcase>
+            <testcase
+                name="getAuthCred"
+                time="0.080"
+                classname="June.Ex25062024.DDT.Lab025">
+            </testcase>
+            <testcase
+                name="getAuthCred"
+                time="0.000"
+                classname="June.Ex25062024.DDT.Lab025">
+            </testcase>
+</testsuite>

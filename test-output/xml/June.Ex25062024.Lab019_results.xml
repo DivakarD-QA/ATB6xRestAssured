@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssured"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.090">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getmethodNegative"
+                time="0.003"
+                classname="June.Ex25062024.Lab019">
+            </testcase>
+            <testcase
+                name="getmethodOne"
+                time="0.080"
+                classname="June.Ex25062024.Lab019">
+            </testcase>
+            <testcase
+                name="getmethodTwo"
+                time="0.002"
+                classname="June.Ex25062024.Lab019">
+            </testcase>
+            <testcase
+                name="getmethodThree"
+                time="0.005"
+                classname="June.Ex25062024.Lab019">
+            </testcase>
+</testsuite>

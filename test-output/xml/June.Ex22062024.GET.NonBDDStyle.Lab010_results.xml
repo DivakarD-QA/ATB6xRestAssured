@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6xRestAssured"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.632">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequestNegative"
+                time="1.291"
+                classname="June.Ex22062024.GET.NonBDDStyle.Lab010">
+            </testcase>
+            <testcase
+                name="getRequestNonBDD"
+                time="1.341"
+                classname="June.Ex22062024.GET.NonBDDStyle.Lab010">
+            </testcase>
+</testsuite>

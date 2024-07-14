@@ -5,16 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c973db6-4143-4921-80a0-51ecafc86c36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/Lab004_Annotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/Lab005_Assertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/Lab006_HardAssertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testng/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_Lab003.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng_Lab007.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex22062024/DELETE/Lab016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex22062024/FULL/Lab017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex22062024/FULL/Lab018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex22062024/GET/BDDStyle/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex22062024/GET/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex22062024/GET/NonBDDStyle/Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex22062024/GET/NonBDDStyle/Lab011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex22062024/PATCH/Lab014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex22062024/POST/Lab012_BDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex22062024/POST/Lab013_NonBDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex22062024/POST/testngPOST.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex22062024/PUT/Lab015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex22062024/testng_CURL_Package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/DDT/Lab025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/Faker/Lab026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/Lab021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/Lab022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/Lab023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/Lab024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/Listeners/Lab027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/Listeners/Lab028_CustomListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/Listeners/Lab029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/Listeners/testng_Lab029.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/PriorityAndGroups/Lab019_Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/PriorityAndGroups/Lab020_Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/PriorityAndGroups/testng_019,020.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/PriorityAndGroups/testng_021_QA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/PriorityAndGroups/testng_021_REG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/PriorityAndGroups/testng_021_Sanity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/testng_Para_Firefox.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex25062024/testng_para_Chrome.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/Gson/Deserialization/Lab036_des_Getter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/Gson/Gen/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/Gson/Gen/Bookingdates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/Gson/Lab032_Normal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/Gson/Lab033_Setter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/Gson/Lab035_Setter_response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/Gson/Sereliazation/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/Gson/Sereliazation/BookingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/Gson/Sereliazation/Bookingdates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/Gson/Sereliazation/Lab034_Gson_Ser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/Lab030.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/Lab031_Map_Faker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/PayloadFromFile/Lab040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/jackson/Deserialization/Lab038_getter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/jackson/Serealization/Lab037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/June/Ex27062024/jsonSchemaValidator/Lab039.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/payload.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/schema.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +68,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -31,10 +76,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JavaAutoRunManager">
-    <enabled-run-configurations>
-      <run-configuration type="TestNG" name="$PROJECT_DIR$/testng.xml" />
-    </enabled-run-configurations>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -46,66 +89,99 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.ATB6xRestAssured [clean,install].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/testng_Lab003.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab002.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab002.getrequest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab004.executor&quot;: &quot;Debug&quot;,
-    &quot;TestNG.Lab005_Assertion.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab005_Assertion.testCase.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab006_HardAssertion.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Lab007.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab001.executor": "Run",
+    "JUnit.ab017.executor": "Debug",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.ATB6xRestAssured [clean,install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/src/test/java/June/Ex22062024/POST/testngPOST.xml.executor": "Run",
+    "TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/src/test/java/June/Ex22062024/testng_CURL_Package.xml.executor": "Run",
+    "TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/src/test/java/June/Ex25062024/Listeners/testng_Lab029.xml.executor": "Run",
+    "TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/src/test/java/June/Ex25062024/testng_019,020.xml.executor": "Run",
+    "TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/src/test/java/June/Ex25062024/testng_021.xml.executor": "Run",
+    "TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/src/test/java/June/Ex25062024/testng_021_QA.xml.executor": "Run",
+    "TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/src/test/java/June/Ex25062024/testng_021_REG.xml.executor": "Run",
+    "TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/src/test/java/June/Ex25062024/testng_021_Sanity.xml.executor": "Run",
+    "TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/src/test/java/June/Ex25062024/testng_Para_Firefox.xml.executor": "Run",
+    "TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/src/test/java/June/Ex25062024/testng_para_Chrome.xml.executor": "Run",
+    "TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/testng.xml.executor": "Run",
+    "TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/testng_Lab003.xml.executor": "Run",
+    "TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/testng_Lab007.xml.executor": "Run",
+    "TestNG.Lab002.executor": "Run",
+    "TestNG.Lab002.getrequest.executor": "Run",
+    "TestNG.Lab004.executor": "Debug",
+    "TestNG.Lab005_Assertion.executor": "Run",
+    "TestNG.Lab005_Assertion.testCase.executor": "Run",
+    "TestNG.Lab006_HardAssertion.executor": "Run",
+    "TestNG.Lab007.executor": "Run",
+    "TestNG.Lab009.getRequestBDD.executor": "Run",
+    "TestNG.Lab010.getRequestNegative.executor": "Run",
+    "TestNG.Lab010.getRequestNonBDD.executor": "Run",
+    "TestNG.Lab011.executor": "Run",
+    "TestNG.Lab011.getRequestNonBDD.executor": "Run",
+    "TestNG.Lab012_BDD.testBDDStylePOSTPositive.executor": "Run",
+    "TestNG.Lab013_NonBDD.executor": "Run",
+    "TestNG.Lab013_NonBDD.testNonBDDStylePOSTPositive.executor": "Run",
+    "TestNG.Lab014.patchRequest.executor": "Run",
+    "TestNG.Lab015.executor": "Debug",
+    "TestNG.Lab015.putRequest.executor": "Run",
+    "TestNG.Lab016.deleteRequest.executor": "Run",
+    "TestNG.Lab017.executor": "Run",
+    "TestNG.Lab018.executor": "Run",
+    "TestNG.Lab018.putRequest.executor": "Run",
+    "TestNG.Lab019.executor": "Run",
+    "TestNG.Lab020.executor": "Run",
+    "TestNG.Lab020.testMethodA.executor": "Run",
+    "TestNG.Lab022.executor": "Run",
+    "TestNG.Lab023.executor": "Run",
+    "TestNG.Lab024.executor": "Run",
+    "TestNG.Lab025 (1).executor": "Run",
+    "TestNG.Lab025.executor": "Run",
+    "TestNG.Lab026.executor": "Run",
+    "TestNG.Lab029.executor": "Run",
+    "TestNG.Lab031_Map_Faker.executor": "Run",
+    "TestNG.Lab031_Map_Faker.testPOSTReq.executor": "Debug",
+    "TestNG.Lab032.executor": "Run",
+    "TestNG.Lab032.testNonBDDStylePOSTPositive.executor": "Run",
+    "TestNG.Lab032.testPOSTReq.executor": "Run",
+    "TestNG.Lab032_Normal.testNonBDDStylePOSTPositive.executor": "Run",
+    "TestNG.Lab033_Setter.testNonBDDStylePOSTPositive.executor": "Run",
+    "TestNG.Lab034_Gson.GsonPayload.executor": "Run",
+    "TestNG.Lab035_Getter_response.GsonPayload.executor": "Debug",
+    "TestNG.Lab036_des.testNonBDDStylePOSTPositive.executor": "Run",
+    "TestNG.Lab037.SeraJackson.executor": "Run",
+    "TestNG.Lab038_getter.DeSer.executor": "Run",
+    "TestNG.Lab039.jsonVal.executor": "Run",
+    "TestNG.Lab040.PushReq.executor": "Run",
+    "TestNG.Lab040.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/testng_Lab007.xml">
-    <configuration name="C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/testng_Lab007.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB6xRestAssured" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng_Lab007.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab005_Assertion" type="TestNG" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DIVAKAR D\IdeaProjects\ATB6xRestAssured\src\test\java\June\Ex25062024\PriorityAndGroups" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="June.Ex25062024.Listeners" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Lab040">
+    <configuration name="Lab037.SeraJackson" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6xRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testng.*" />
+          <option name="PATTERN" value="June.Ex27062024.jackson.Serealization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testng" />
-      <option name="MAIN_CLASS_NAME" value="testng.Lab005_Assertion" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab005_Assertion.testCase" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB6xRestAssured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testng" />
-      <option name="MAIN_CLASS_NAME" value="testng.Lab005_Assertion" />
-      <option name="METHOD_NAME" value="testCase" />
+      <option name="PACKAGE_NAME" value="June.Ex27062024.jackson.Serealization" />
+      <option name="MAIN_CLASS_NAME" value="June.Ex27062024.jackson.Serealization.Lab037" />
+      <option name="METHOD_NAME" value="SeraJackson" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -113,16 +189,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab006_HardAssertion" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab038_getter.DeSer" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6xRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testng.*" />
+          <option name="PATTERN" value="June.Ex27062024.jackson.Deserialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testng" />
-      <option name="MAIN_CLASS_NAME" value="testng.Lab006_HardAssertion" />
+      <option name="PACKAGE_NAME" value="June.Ex27062024.jackson.Deserialization" />
+      <option name="MAIN_CLASS_NAME" value="June.Ex27062024.jackson.Deserialization.Lab038_getter" />
+      <option name="METHOD_NAME" value="DeSer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab039.jsonVal" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6xRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="June.Ex27062024.jsonSchemaValidator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="June.Ex27062024.jsonSchemaValidator" />
+      <option name="MAIN_CLASS_NAME" value="June.Ex27062024.jsonSchemaValidator.Lab039" />
+      <option name="METHOD_NAME" value="jsonVal" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab040" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6xRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="June.Ex27062024.PayloadFromFile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="June.Ex27062024.PayloadFromFile" />
+      <option name="MAIN_CLASS_NAME" value="June.Ex27062024.PayloadFromFile.Lab040" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -130,17 +242,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab007" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab040.PushReq" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6xRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testng.*" />
+          <option name="PATTERN" value="June.Ex27062024.PayloadFromFile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testng" />
-      <option name="MAIN_CLASS_NAME" value="testng.Lab007" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="June.Ex27062024.PayloadFromFile" />
+      <option name="MAIN_CLASS_NAME" value="June.Ex27062024.PayloadFromFile.Lab040" />
+      <option name="METHOD_NAME" value="PushReq" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -149,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/DIVAKAR D/IdeaProjects/ATB6xRestAssured/testng_Lab007.xml" />
-        <item itemvalue="TestNG.Lab007" />
-        <item itemvalue="TestNG.Lab005_Assertion" />
-        <item itemvalue="TestNG.Lab006_HardAssertion" />
-        <item itemvalue="TestNG.Lab005_Assertion.testCase" />
+        <item itemvalue="TestNG.Lab040" />
+        <item itemvalue="TestNG.Lab040.PushReq" />
+        <item itemvalue="TestNG.Lab039.jsonVal" />
+        <item itemvalue="TestNG.Lab038_getter.DeSer" />
+        <item itemvalue="TestNG.Lab037.SeraJackson" />
       </list>
     </recent_temporary>
   </component>
@@ -167,5 +280,21 @@
       <updated>1719141853001</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/June/Ex25062024/Lab024.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="bookingDatesMap" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
